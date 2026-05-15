@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Atlas Peak</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+
+<body>
+
+<div class="top">
+    <h1>Atlas Peak</h1>
+    <p>Welcome User</p>
+</div>
+
+<div class="balance-card">
+    <h2>₦3,300</h2>
+    <p>Your Balance</p>
+</div>
+
+<div class="buttons">
+    <button>Recharge</button>
+    <button>Withdraw</button>
+    <button>Team</button>
+    <button>Stocks</button>
+</div>
+
+<div class="transactions">
+    <h3>Recent Transactions</h3>
+
+    <div class="transaction-item">
+        <div>
+            <strong>Deposit</strong><br>
+            <span>Today</span>
+        </div>
+        <strong>+ ₦5,000</strong>
+    </div>
+
+    <div class="transaction-item">
+        <div>
+            <strong>Withdrawal</strong><br>
+            <span>Yesterday</span>
+        </div>
+        <strong>- ₦2,000</strong>
+    </div>
+
+</div>
+
+</body>
+</html>
